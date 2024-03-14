@@ -1,0 +1,4 @@
+# Changelog
+All notable releases to this project will be documented in this file. Please adhere to our internal changelog guidelines (can be found in our Team Development Confluence page)
+## [Unreleased]
+(This part may contain features that are confirmed to be released at some point but not finished yet.)
