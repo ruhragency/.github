@@ -1,4 +1,4 @@
-# Description
+## Description
 
 Please provide a brief summary of the changes introduced by this pull-request.
 
@@ -16,8 +16,7 @@ Please describe the tests that you ran to verify your changes.
 - [ ] Test A
 - [ ] Test B
 
-
-# Checklist:
+## Checklist:
 
 - [ ] My code follows the code style of this project.
 - [ ] Any needed changes in documentation have been added.
