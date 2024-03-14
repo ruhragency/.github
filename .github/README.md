@@ -6,6 +6,7 @@
 
 ## Contributing
 (add any specific rules here)
+
 Please adhere to our internal company guidelines: https://ruhragency.atlassian.net/wiki/spaces/TD/pages/184811588/Guidelines
 
 ## Used technologies & architecture
