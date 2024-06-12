@@ -8,7 +8,7 @@
 
 ## Ticket number and link
 
-[???](https://ruhragency.atlassian.net/jira/software/???)
+[???](https://ruhragency.atlassian.net/jira/software/*TICKET_NUMBER*)
 
 ## How Has This Been Tested?
 
