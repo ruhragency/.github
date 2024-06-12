@@ -1,13 +1,14 @@
 ## Description
 
-Please provide a brief summary of the changes introduced by this pull-request.
+[Required] Please provide a brief summary of the changes introduced by this pull-request.
 
-## Context for reviewers [Optional]
+## Context for reviewers 
 
-Is there anything that would be important to know for reviewers?
+[Optional] Is there anything that would be important to know for reviewers?
 
 ## Ticket number and link
-[???](https://ruhragency.atlassian.net/jira/software/projects/???)
+
+[???](https://ruhragency.atlassian.net/jira/software/???)
 
 ## How Has This Been Tested?
 
